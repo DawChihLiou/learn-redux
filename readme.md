@@ -1,6 +1,6 @@
-# Learn Redux
+# Learn Redux with Wes Bos
 
-A simple React + Redux implementation. This will be turned into a free video series once the app is totally fleshed out.
+Build project with Wes Bos's video tutorial.
 
 ## Running
 
